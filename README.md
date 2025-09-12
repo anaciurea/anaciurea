@@ -5,8 +5,9 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
 
  * ### C language projects:
    ○ 2048 game : https://github.com/anaciurea/2048_game<br>
-   ○ Linked list and queue<br>
+   ○ Linked list and queue : https://github.com/anaciurea/LinkedList<br>
    ○ MiniLibc : https://github.com/anaciurea/MiniLibc<br>
+   ○ AssignmentParallelFirewall : https://github.com/anaciurea/AssignmentParallelFirewall<br>
    
 
  * ### Java language projects:
