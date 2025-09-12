@@ -4,12 +4,13 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
  ## Personal repositories & projects:
 
  * ### C language projects:
-   ○ 2048 game : https://github.com/anaciurea/2048_game<br>
-   ○ Linked list and queue : https://github.com/anaciurea/LinkedList<br>
    ○ MiniLibc : https://github.com/anaciurea/MiniLibc<br>
    ○ AssignmentParallelFirewall : https://github.com/anaciurea/AssignmentParallelFirewall<br>
+   ○ Linked list and queue : https://github.com/anaciurea/LinkedList<br>
+   ○ 2048 game : https://github.com/anaciurea/2048_game<br>
+   ○ Linked list and queue : https://github.com/anaciurea/LinkedList<br>
+   ○ First Homework at C course : https://github.com/anaciurea/First_homework_PCLP<br>
    
-
  * ### Java language projects:
    ○ Air Traffic Control System : https://github.com/anaciurea/AirTrafficControlSystem<br>
    ○ Tourism Application: https://github.com/anaciurea/Tourism-Application<br>
