@@ -1,5 +1,5 @@
 
-A motivated, ambitious and detail-oriented Computer Science and Engineering student with strong programming skills in C, Java and C++. Passionate about software engineering, systems programming and innovation, with solid knowledge in operating systems, communication protocols and software development. Advanced UNIX/Linux environment understanding, excellent team player, strong problem-solving abilities and effective communication skills in Romanian, English and French.
+A motivated, ambitious and detail-oriented Computer Science and Engineering student with strong programming skills in C, Java and C++. Passionate about software engineering, systems programming and innovation, with solid knowledge in operating systems, communication protocols and software development. Excellent team player, strong problem-solving abilities and effective communication skills in Romanian, English and French.
 
  ## Personal repositories & projects:
 
