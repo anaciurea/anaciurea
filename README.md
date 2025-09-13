@@ -8,7 +8,7 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
    ○ AssignmentParallelFirewall : https://github.com/anaciurea/AssignmentParallelFirewall<br>
    ○ Router data plane implementation<br>
    ○ The implementation of a client-server application that allows you to mange messages : https://github.com/anaciurea/ClientServerApp<br>
-   ○ Linked list and queue : https://github.com/anaciurea/LinkedList<br>
+   ○ Linked list and queue from scratch : https://github.com/anaciurea/LinkedList<br>
    ○ 2048 game : https://github.com/anaciurea/2048_game<br>
    ○ Linked list and queue : https://github.com/anaciurea/LinkedList<br>
    ○ First Homework at C course : https://github.com/anaciurea/First_homework_PCLP<br>
