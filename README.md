@@ -15,3 +15,6 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
  * ### Java language projects:
    ○ Air Traffic Control System : https://github.com/anaciurea/AirTrafficControlSystem<br>
    ○ Tourism Application: https://github.com/anaciurea/Tourism-Application<br>
+
+ * ### Python language projects:
+   ○ Machine Learning : https://github.com/anaciurea/MachineLearning<br>
