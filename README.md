@@ -2,7 +2,11 @@
 A motivated, ambitious and detail-oriented Computer Science and Engineering student with strong programming skills in C, Java and C++. Passionate about software engineering, systems programming and innovation, with solid knowledge in operating systems, communication protocols and software development. Excellent team player, strong problem-solving abilities and effective communication skills in Romanian, English and French.
 
  ## Personal repositories & projects:
-
+ 
+* ### Python language projects:
+   ○  Job-Salary-Prediction-ML : https://github.com/anaciurea/MachineLearning<br>
+   ○  Image-Classification-CNN-PyTorch – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
+   
  * ### C language projects:
    ○ MiniLibc : https://github.com/anaciurea/MiniLibc<br>
    ○ AssignmentParallelFirewall : https://github.com/anaciurea/AssignmentParallelFirewall<br>
@@ -18,6 +22,3 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
    ○ Tourism Application: https://github.com/anaciurea/Tourism-Application<br>
    ○ News aggregator using Java Threads : https://github.com/anaciurea/Agregator-de-tiri-folosind-Java-Threads<br>
 
- * ### Python language projects:
-   ○  Job-Salary-Prediction-ML : https://github.com/anaciurea/MachineLearning<br>
-   ○  Image-Classification-CNN-PyTorch – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
