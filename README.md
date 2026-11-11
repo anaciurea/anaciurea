@@ -19,5 +19,5 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
    ○ News aggregator using Java Threads : https://github.com/anaciurea/Agregator-de-tiri-folosind-Java-Threads<br>
 
  * ### Python language projects:
-   ○ Machine Learning : https://github.com/anaciurea/MachineLearning<br>
+   ○  Job-Salary-Prediction-ML : https://github.com/anaciurea/MachineLearning<br>
    ○  Image-Classification-CNN-PyTorch – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
