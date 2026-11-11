@@ -5,7 +5,7 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
  
 * ### Python language projects:
    ○  Job-Salary-Prediction-ML : https://github.com/anaciurea/MachineLearning<br>
-   ○  Image-Classification-CNN-PyTorch – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
+   ○  Image-Classification-CNN-PyTorch : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
    
  * ### C language projects:
    ○ MiniLibc : https://github.com/anaciurea/MiniLibc<br>
