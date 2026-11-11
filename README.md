@@ -11,10 +11,14 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
    ○ Linked list and queue from scratch : https://github.com/anaciurea/LinkedList<br>
    ○ 2048 game : https://github.com/anaciurea/2048_game<br>
    ○ First Homework at C course : https://github.com/anaciurea/First_homework_PCLP<br>
+   ○ CHORD protocol (distributed hash table) using MPI : https://github.com/anaciurea/Protocolul-CHORD-n-MPI<br>
    
  * ### Java language projects:
    ○ Air Traffic Control System : https://github.com/anaciurea/AirTrafficControlSystem<br>
    ○ Tourism Application: https://github.com/anaciurea/Tourism-Application<br>
+   ○ News aggregator using Java Threads : https://github.com/anaciurea/Agregator-de-tiri-folosind-Java-Threads<br>
 
  * ### Python language projects:
    ○ Machine Learning : https://github.com/anaciurea/MachineLearning<br>
+   ○ Artificial Intelligence Project 1 – classification & regression (Job Salary Prediction) : https://github.com/anaciurea/Artificial-Intelligence-Project-1<br>
+   ○ Artificial Intelligence Project 2 – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
