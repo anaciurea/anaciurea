@@ -20,4 +20,4 @@ A motivated, ambitious and detail-oriented Computer Science and Engineering stud
 
  * ### Python language projects:
    ○ Machine Learning : https://github.com/anaciurea/MachineLearning<br>
-   ○ Artificial Intelligence Project 2 – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
+   ○  Image-Classification-CNN-PyTorch – image classification with neural networks (PyTorch) : https://github.com/anaciurea/Artificial-Intelligence-Project-2<br>
